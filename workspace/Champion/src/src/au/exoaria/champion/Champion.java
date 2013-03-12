@@ -27,7 +27,7 @@ public class Champion extends JavaPlugin {
 	}
 
 	public void writeToHighScoreTable(float Score) {
-		// Code that writes the score
+		// Code that writes the score..
 	}
 
 }
