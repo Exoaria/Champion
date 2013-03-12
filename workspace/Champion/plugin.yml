@@ -1,0 +1,6 @@
+name: Champion
+main: src.au.exoaria.champion.Champion
+version: 0.1.1
+description: No, we don't sell cats here. You'll have to check the pet store.
+load: STARTUP
+authors: [Exoaria, Zachary]
